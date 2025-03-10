@@ -1,4 +1,4 @@
-# README: Text-to-Image Generation with GLIGEN
+# Text-to-Image Generation with GLIGEN
 
 This project generates high-quality images based on textual prompts, bounding box annotations, and optional reference images. The workflow consists of generating prompts, refining them, and creating images using the GLIGEN pipeline, followed by evaluating the Fréchet Inception Distance (FID) for quality assessment.
 
